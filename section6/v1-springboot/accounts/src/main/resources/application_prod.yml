@@ -1,0 +1,18 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazy Bank accounts related prod APIs"
+  contactDetails:
+    name: "Srikanth Yadav - Product Owner"
+    email: "srikanthyadav@gmail.com"
+  onCallSupport:
+    - 91-9634280051
+    - 91-7906551883

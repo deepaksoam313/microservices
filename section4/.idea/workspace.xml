@@ -4,12 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="571f4d4c-e4ac-48db-bbe2-cf464424e009" name="Changes" comment="" />
+    <list default="true" id="571f4d4c-e4ac-48db-bbe2-cf464424e009" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../section6/v1-springboot/accounts/src/main/resources/application_prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section6/v1-springboot/accounts/src/main/resources/application_qa.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-cloud-config/configserver/src/main/resources/config/accounts-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-cloud-config/configserver/src/main/resources/config/accounts-qa.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-cloud-config/configserver/src/main/resources/config/accounts.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/v1-springboot/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../section6/v1-springboot/accounts/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "deepaksoam313"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/deepaksoam313/microservices.git",
+    "accountId": "ecaecd8c-54ae-4c02-847c-c7244dfd4887"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -32,8 +54,10 @@
     "Maven.loans [validate].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
-    "last_opened_file_path": "/home/deepak.kumar30/microservices",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/deepak.kumar30/microservices/section4",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",

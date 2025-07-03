@@ -1,0 +1,18 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Eazy Bank accounts related QA APIs"
+  contactDetails:
+    name: "Asif Ansari - QA Lead"
+    email: "asifansari@gmail.com"
+  onCallSupport:
+    - 91-9634280050
+    - 91-7906551882

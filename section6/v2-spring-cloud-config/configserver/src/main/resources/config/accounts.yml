@@ -1,0 +1,13 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Eazy Bank accounts related local APIs"
+  contactDetails:
+    name: "Deepak Soam - Dev"
+    email: "deepaksoam@gmail.com"
+  onCallSupport:
+    - 91-9634280049
+    - 91-7906551881
+
