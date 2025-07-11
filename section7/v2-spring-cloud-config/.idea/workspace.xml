@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8d07e8-85ec-4a4b-aa82-e6b6f4218227" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../section6/v1-springboot/accounts/src/main/resources/application_prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section6/v1-springboot/accounts/src/main/resources/application_qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section6/v2-spring-cloud-config/configserver/src/main/resources/config/accounts-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section6/v2-spring-cloud-config/configserver/src/main/resources/config/accounts-qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../section6/v2-spring-cloud-config/configserver/src/main/resources/config/accounts.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../section6/v1-springboot/accounts/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../section6/v1-springboot/accounts/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="9b8d07e8-85ec-4a4b-aa82-e6b6f4218227" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +42,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/deepak.kumar30/microservices/section7/v2-spring-cloud-config",
+    "last_opened_file_path": "/home/deepak.kumar30/microservices/section8",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
